@@ -1,6 +1,6 @@
 class EfficientMagicMath:
     def __init__(self):
-        pass
+        return
 
     def magicNumber(self, n, dictionary):
         result = 0
